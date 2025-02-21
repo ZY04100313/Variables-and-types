@@ -10,7 +10,7 @@ public class MusicBox {
     public String songGenre;
     private String songProducer;
     public String songMusicLabel;
-    public int noAds;
+    
 
     //Constructor
     public MusicBox(String songID, char premiumSong, String title, String artists, String Album, String genre, String producer, String label) {
