@@ -9,7 +9,7 @@ public class MusicBox {
     private String songAlbum;
     public String songGenre;
     private String songProducer;
-    public String songMusicLabel;
+
     
 
     //Constructor
